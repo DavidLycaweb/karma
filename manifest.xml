@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>karma</name>
+	<author>David Varela</author>
+	<version>1.9.2</version>
+	<id>karma</id>
+	<description>Now your users can give or take karma from other users. 
+	</description>
+	<website>http://www.elgg.org</website>
+	<copyright>Free for all</copyright>
+	<license>GNU Public License version 2</license>
+ 	
+ 	<requires>
+		<type>elgg_release</type>
+		<version>1.9</version>
+	</requires>
+	
+ 	<category>games</category>
+</plugin_manifest>
