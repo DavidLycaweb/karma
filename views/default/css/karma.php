@@ -1,9 +1,12 @@
 <style>
+.uvarillos {}
+
 .karmaspace {
 width:100%;
 display:block;
 position:relative;
-float:left;
+min-height:45px;
+margin-bottom:15px;
 }
 
 .karmaspace .elgg-form.elgg-form-karma-save {
